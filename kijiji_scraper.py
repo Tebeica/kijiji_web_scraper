@@ -50,7 +50,7 @@ for i in range(1,10):
             if model in brand:
                 IDONTWANTOMETER = 1
         if IDONTWANTOMETER == 1:
-            print('found match')
+            print('found match ' + brand + ', skipping...')
             IDONTWANTOMETER = 0
             continue
 
