@@ -1,5 +1,5 @@
 # Kijiji Web Scraper
-I am a sucker for vehicle listings and I enjoy changing the car I drive pretty often. This is my first web scraper and I've built it to help me browse listings easier while filtering out model names I don't like.
+I am a sucker for vehicle listings and I enjoy changing the car I am  driving pretty often. This is my first web scraper and I've built it to help me browse local listings easier while filtering out model names I don't like.
 
 The program is written in Python 3 and uses the Beautiful Soup library for HTML parsing. 
 
