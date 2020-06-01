@@ -7,5 +7,6 @@ The URL provided was split into two pieces in order to easily change the page nu
 
 Remember to:
   - pip install bs4 (or '$ pip3 install bs4')
+
 Run the file with:
   - python3 kijiji_scraper.py
